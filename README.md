@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogarohit&label=Profile%20views&color=0e75b6&style=flat" alt="mogarohit" /> </p>
 
-- 🔭 I’m currently working on **as a Software Engineer**
+- 🔭 I’m currently working **as a Software Engineer**
 
 - 🌱 I’m currently learning **Kubernetes**
 
