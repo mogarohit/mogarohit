@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogarohit&label=Profile%20views&color=0e75b6&style=flat" alt="mogarohit" /> </p>
 
-- 🔭 I’m currently working on **as a Cloud Engineer**
+- 🔭 I’m currently working on **as a Software Engineer**
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Database, Cloud, DevOps**
+- 💬 Ask me about **Database, APEX, ORDS, Cloud, DevOps**
 
 - 📫 How to reach me **moga.rohit15@gmail.com**
 
