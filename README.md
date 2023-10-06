@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Database, APEX, ORDS, Cloud, DevOps**
+- 💬 Ask me about **Database, APEX, ORDS, VBCS, OIC, Cloud, DevOps**
 
 - 📫 How to reach me **moga.rohit15@gmail.com**
 
