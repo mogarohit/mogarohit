@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Database, APEX, ORDS, VBCS, OIC, Cloud, DevOps**
 
-- 📫 How to reach me **moga.rohit15@gmail.com**
+- 📫 How to reach me **info@rohitmoga.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
