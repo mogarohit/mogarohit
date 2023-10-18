@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a Software Engineer**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **React, Node.js, MongoDB, JavaScript**
 
 - 💬 Ask me about **Database, APEX, ORDS, VBCS, OIC, Cloud, DevOps**
 
