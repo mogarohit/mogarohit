@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure, Terraform, Cloud Architecture, DevOps**
 
-- 💬 Ask me about **Database, APEX, ORDS,Cloud, DevOps**
+- 💬 Ask me about **Cloud, Database, DevOps**
 
 - 📫 How to reach me **info@rohitmoga.com**
 
