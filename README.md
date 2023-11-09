@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working **as a Software Engineer**
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB, JavaScript**
+- 🌱 I’m currently learning **Azure, Terraform, Cloud Architecture, DevOps**
 
-- 💬 Ask me about **Database, APEX, ORDS, VBCS, OIC, Cloud, DevOps**
+- 💬 Ask me about **Database, APEX, ORDS,Cloud, DevOps**
 
 - 📫 How to reach me **info@rohitmoga.com**
 
