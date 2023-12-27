@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a Software Engineer**
 
-- 🌱 I’m currently learning **Azure, Terraform, Cloud Architecture, DevOps**
+- 🌱 I’m currently learning **Oracle Cloud, Oracle Fusion, OIC, CI, Azure, Terraform, Cloud Architecture, DevOps**
 
 - 💬 Ask me about **Cloud, Database, DevOps**
 
