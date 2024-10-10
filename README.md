@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a System Admin II (Oracle Cloud) @ First Solar, Ohio, USA**
 
-- 🌱 I’m currently learning **Oracle Cloud, Oracle Fusion, OIC, CI, Azure, Terraform, Cloud Architecture, DevOps**
+- 🌱 I’m currently learning **living (Taking a break from the "hustle culture")**
 
 - 💬 Ask me about **Cloud, Database, DevOps**
 
