@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogarohit&label=Profile%20views&color=0e75b6&style=flat" alt="mogarohit" /> </p>
 
-- 🔭 I’m currently working **as a System Admin II (Oracle Cloud) @ First Solar**
+- 🔭 I’m currently working **as a System Admin II (Oracle Cloud) @ First Solar, Ohio, USA**
 
 - 🌱 I’m currently learning **Oracle Cloud, Oracle Fusion, OIC, CI, Azure, Terraform, Cloud Architecture, DevOps**
 
