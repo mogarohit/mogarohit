@@ -10,6 +10,8 @@
 - 💬 Ask me about **Cloud, Database, DevOps**
 
 - 📫 How to reach me **info@rohitmoga.com / https://rohitmoga.com**
+  
+- 🔭 Apart from tech, I like **playing flute, kayaking, photography, strolling along the shoreline/river, and gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
