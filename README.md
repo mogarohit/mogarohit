@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a System Admin II (Oracle Cloud) @ First Solar, Ohio, USA**
 
-- 🌱 I’m currently learning **living (Taking a break from the "hustle culture")**
+- 🌱 I’m currently learning ** nothing (Taking a break from the "hustle culture")**
 
 - 💬 Ask me about **Cloud, Database, DevOps**
 
